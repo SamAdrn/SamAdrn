@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @SamAdrn
-- 👀 I just really like to write code. It's a way I could communicate with technology thats all around us.
-- 🌱 I'm still in college pursuing a Computer Science major. I've been exploring mainly on Java, but looking forward to learn other languages as well.
-- 💞️ I’m looking to collaborate on ... anything really..
-- 📫 You can reach me on my personal e-mail samadrianko@gmail.com
+Computer Science student at the University of Maryland. Actively seeking Software Engineering Internships. 
+
+You can find out more about me on [samadrn.github.io/ePortfolio/](https://samadrn.github.io/ePortfolio/). Contact me if you're interested in working on a project together!
 
 <!---
 SamAdrn/SamAdrn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
