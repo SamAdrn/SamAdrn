@@ -17,8 +17,11 @@
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamAdrn&theme=default&title_color=ff8300&text_color=f0f0f0&bg_color=0E1117&hide_border=true&hide_progress=true&langs_count=10&custom_title=Languages%20%20Used&hide=CSS,Shell" alt="SamAdrn Top Languages Card" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samadrn&hide_border=true&bg_color=0E1117&title_color=ff8300&text_color=f0f0f0&include_all_commits=true&show_icons=true&icon_color=fbb040&hide=stars,contribs&custom_title=My%20GitHub%20Stats" alt="SamAdrn Stats Card" />
-</div>
+  
+[![SamAdrn's GitHub langs-Dark](https://github-readme-stats.vercel.app/api?username=samadrn&hide_border=true&bg_color=0E11170&title_color=ff8300&text_color=f0f0f0&include_all_commits=true&show_icons=true&icon_color=fbb040&hide=stars,contribs&custom_title=My%20GitHub%20Stats#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![SamAdrn's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=SamAdrn&theme=default&title_color=ff8300&text_color=f0f0f0&bg_color=0E11170&hide_border=true&hide_progress=true&langs_count=10&custom_title=Languages%20%20Used&hide=CSS,Shell#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
+[![SamAdrn's GitHub langs-Light](https://github-readme-stats.vercel.app/api/top-langs?username=SamAdrn&theme=default&title_color=ff8300&text_color=2b2d42&bg_color=0E11170&hide_border=true&hide_progress=true&langs_count=10&custom_title=Languages%20%20Used&hide=CSS,Shell#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![SamAdrn's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=samadrn&hide_border=true&bg_color=0E11170&title_color=ff8300&text_color=2b2d42&include_all_commits=true&show_icons=true&icon_color=fbb040&hide=stars,contribs&custom_title=My%20GitHub%20Stats#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+  
+</div>
